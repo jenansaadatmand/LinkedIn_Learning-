@@ -28,7 +28,6 @@ else:
 print("Thanks for playing!")
 
 
-
 # Solution 3: using not equal sign:
 
 guess = input("What's my favorite food?")
