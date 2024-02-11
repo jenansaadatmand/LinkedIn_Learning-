@@ -3,7 +3,7 @@ print("Challenge 1:")
 # A message for the user
 message = "This is going to be tricky ;)"
 Message = "Very tricky!" # Created a new variable with capital "M"
-print(message) # show the message on the screen
+print(message) # Show the message on the screen
 
 # Perform mathematical operations
 result = 2**3
