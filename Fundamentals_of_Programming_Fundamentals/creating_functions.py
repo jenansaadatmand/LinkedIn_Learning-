@@ -1,6 +1,6 @@
 # Creating functions:
 
-def say_hello(): # define the function
+def say_hello(): # Define the function
     print("Hello friends!")  # function body
 
 
