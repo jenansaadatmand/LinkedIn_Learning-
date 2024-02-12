@@ -32,4 +32,3 @@ def wash_car():
         print("Air dry") 
 
 wash_car()
-
