@@ -1,1 +1,1 @@
-Learning_Data_Science_Understanding_the_Basics
+This repository contains my sample code applications and learning materials which deal with the preparation for Learning_Data_Science_Understanding_the_Basics certification from the LinkedIn Learning platform.
