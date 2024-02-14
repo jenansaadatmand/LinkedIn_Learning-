@@ -16,4 +16,3 @@ print()
 
 value_int = int(value)  # converting strin gto a number integer, saved in a variable 
 print(value_int * 10)
-
