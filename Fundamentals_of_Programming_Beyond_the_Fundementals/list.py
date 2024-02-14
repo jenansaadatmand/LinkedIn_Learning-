@@ -21,6 +21,3 @@ print()
 print(cities[-1])
 print(cities[-2])
 print()
-
-
-      
