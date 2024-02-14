@@ -19,6 +19,3 @@ print(california_symbols)
 print(california_symbols["bird"])  # Accessing by key 
 print(california_symbols["fruit"])
 print(california_symbols["flower"])
-
-
-
