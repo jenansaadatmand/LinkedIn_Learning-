@@ -14,5 +14,5 @@ print()
 
 # solution 2: 
 
-value_int = int(value)  # converting strin gto a number integer, saved in a variable 
+value_int = int(value)  # converting string to a number integer, saved in a variable 
 print(value_int * 10)
