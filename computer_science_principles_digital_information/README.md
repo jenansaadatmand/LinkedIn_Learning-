@@ -1,1 +1,1 @@
-This repository 
+This repository contains my sample code applications and learning materials which deal with the preparation for computer_science_principles_digital_information certification from the LinkedIn Learning platform.
