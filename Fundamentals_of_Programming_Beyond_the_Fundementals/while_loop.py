@@ -12,4 +12,3 @@ while i <= 100:  # While loop, while statement
     print(i) # print the value of i and increase it by 5
     i += 5  # increment by 10
 print("List complete")
-
