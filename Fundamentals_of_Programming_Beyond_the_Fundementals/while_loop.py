@@ -4,7 +4,7 @@
 # After each loop, the statement is checked, if it's False the loop continues. If it's True the loop stops and no more loops happen.
 # I want to count to 100, with 100 being the last number printed
 
-i = 5  # Set a counter, start by value 5
+i = 5  # Set a counter, start with value 5
 
 print("Count to 100 by fives:")
 
