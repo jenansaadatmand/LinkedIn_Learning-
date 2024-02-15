@@ -1,7 +1,7 @@
 # Create a loop that counts to 100 by 5
 # i = iterator 
 # Specify the end condition, with a while loop, a condition that evaluates to True or False
-# After each loop, the statement is checked,if its False the loop continues. If its True the loop stops and no more loops happen.
+# After each loop, the statement is checked, if its False the loop continues. If its True the loop stops and no more loops happen.
 # I want to count to 100, with 100 being the last number printed
 
 i = 5  # Set a counter, start by value 5
