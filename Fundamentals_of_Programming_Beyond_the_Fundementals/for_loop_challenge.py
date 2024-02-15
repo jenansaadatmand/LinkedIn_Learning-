@@ -24,4 +24,3 @@ print("Our fruit selection:") # Adding a title for the list
 
 for fruit in fruits:
     print(fruit)
-
