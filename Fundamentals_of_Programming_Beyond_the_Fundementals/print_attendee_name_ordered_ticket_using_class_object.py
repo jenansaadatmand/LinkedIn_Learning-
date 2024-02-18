@@ -12,7 +12,7 @@ class Attendee: # Creating a class with a name
         self.name = name
         self.tickets = tickets
 
-    def displayAttendee(self): # printa name and ticket value for the current object
+    def displayAttendee(self): # Print a name and ticket value for the current object
         print('Name : {}, Tickets: {}'.format(self.name, self.tickets))
 
     def addTicket(self):
