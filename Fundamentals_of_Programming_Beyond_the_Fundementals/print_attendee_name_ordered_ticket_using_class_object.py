@@ -36,4 +36,4 @@ attendee2.displayAttendee()
 # Imagine attendee contacted to add more tickets. Use the second method addTicket to add the ticket
 
 attendee2.addTicket() # Calling that method adds one ticket
-#attendee2.addTicket() # call it again to add the second ticket 
+#attendee2.addTicket() # Call it again to add the second ticket 
