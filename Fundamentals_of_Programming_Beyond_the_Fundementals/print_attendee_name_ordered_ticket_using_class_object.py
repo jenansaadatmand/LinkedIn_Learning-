@@ -8,7 +8,7 @@
 class Attendee: # Creating a class with a name 
     'Common base class for all attendees' # Description of class
 
-    def __init__(self, name, tickets):  # constructor function with parameters
+    def __init__(self, name, tickets):  # Constructor function with parameters
         self.name = name
         self.tickets = tickets
 
