@@ -3,4 +3,4 @@
 value = input('Enter a number: ') # input() always stores the value as a string
 print(value)
 
-print("the number you have entered is:", value) # concatenation of two strings
+print("the number you have entered is:", value) # Concatenation of two strings
