@@ -48,7 +48,7 @@ print("Original List: ", systems)
 
 reversed_list = systems[::-1] # step back from last index
 
-# updated list
+# Updated list
 print("Reversed_list: ", reversed_list)
 print('Updated List:', systems) # to confirm original list changed
 print()
