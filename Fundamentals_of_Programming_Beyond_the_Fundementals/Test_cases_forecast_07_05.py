@@ -1,6 +1,5 @@
 # Test cases: Commands or scripts designed to test a specific scenario
 
-
 def check_temp(temp):
     if  temp < 15:
         print('Bring a jacket')
