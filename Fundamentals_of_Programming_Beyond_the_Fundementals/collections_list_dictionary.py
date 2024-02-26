@@ -33,7 +33,7 @@ print()
 
 # Task 2:
 # Create dictionary "peaks" that stars all values
-# Create statement that prints name of highest peak on Pacific plate
+# Create a statement that prints name of highest peak on Pacific plate
 
 # Outcome should be like this:
 # Wolf 359
