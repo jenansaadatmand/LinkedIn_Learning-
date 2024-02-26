@@ -12,4 +12,4 @@ print(spices)
 print()
 for spice in spices: # Iteration through all the items within the list
     print(spice)
-print("No more boring omlette") # outside of the for loop
+print("No more boring omelette") # outside of the for loop
