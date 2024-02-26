@@ -2,4 +2,4 @@ This repository contains my sample code applications and learning materials whic
 
 
 
-![CertificateOfCompletion_Excel Power Query for Beginners](https://github.com/jenansaadatmand/LinkedIn_Learning-/assets/153618882/c26506b4-897c-4a2f-9868-38b7f05a6661)
+![Excel_Power_Query_for_Beginners_Certificate_Of_Completion](https://github.com/jenansaadatmand/LinkedIn_Learning-/assets/153618882/ca34e357-c006-4e36-acb3-ad7a3cc2a51a)
