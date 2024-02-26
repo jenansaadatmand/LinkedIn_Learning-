@@ -17,7 +17,7 @@
 
 # Task 1: 
 # Replace variables with list "stars"
-# Create statement that prints fourth nearest star
+# Create statement that prints the fourth nearest star
 
 stars = ['Sol',
         'Alpha Centauri',
