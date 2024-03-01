@@ -13,4 +13,3 @@ print()
 print(note[0:7])  # Award starts at index 0 to 7 not including 7
 award_text = note[7:]  # Slice the remainder, we know that the award starts at index 0 to 6, so we slice from 7 to the end
 print(award_text)
-
