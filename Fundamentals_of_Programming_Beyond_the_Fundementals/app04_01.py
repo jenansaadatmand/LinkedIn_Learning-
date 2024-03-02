@@ -5,7 +5,7 @@ print()
 
 print('When you multiply by 10, this is what you get:')
 
-print(value * 10) # multiplication or replication of strings is not the same as multiplying by 10 because value is a string, need to be converted to integer before performing mathematical operations
+print(value * 10) # Multiplication or replication of strings is not the same as multiplying by 10 because value is a string, need to be converted to integer before performing mathematical operations
 print()
 print('When you multiply by 10, this is what you get:')
 print(int(value) * 10) # converting string to integer using int()
