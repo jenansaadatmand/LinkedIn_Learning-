@@ -1,4 +1,4 @@
-value = input('Enter a number: ') # input always stores value as string
+value = input('Enter a number: ') # Input always stores value as string
 
 print(value + " is my favourite number!") # concatenation of two strings
 print()
