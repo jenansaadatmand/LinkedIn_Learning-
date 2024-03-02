@@ -12,7 +12,7 @@ print(int(value) * 10) # converting string to integer using int()
 print()
 
 
-# solution 2: 
+# Solution 2: 
 
 value_int = int(value)  # converting string to a number integer, saved in a variable 
 print(value_int * 10)
