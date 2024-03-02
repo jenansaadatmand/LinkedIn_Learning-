@@ -1,6 +1,6 @@
 value = input('Enter a number: ') # Input always stores value as string
 
-print(value + " is my favourite number!") # concatenation of two strings
+print(value + " is my favourite number!") # Concatenation of two strings
 print()
 
 print('When you multiply by 10, this is what you get:')
