@@ -46,7 +46,7 @@ print(func1()) # Function still called within the print() function. Since the fu
 print()
 print()
 
-print(func1) # The function is not executed at all since we are not including the parenthesis func1(). printing the value of the funciton iteself, which evaluates to this string that you see <function func1 at 0x10731ce00>, functions themselves are objects that can be passed around to other pieces of Python code    
+print(func1) # The function is not executed at all since we are not include the parenthesis func1(). printing the value of the funciton iteself, which evaluates to this string that you see <function func1 at 0x10731ce00>, functions themselves are objects that can be passed around to other pieces of Python code    
 print()
 
 
