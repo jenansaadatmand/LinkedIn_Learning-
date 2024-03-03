@@ -7,7 +7,7 @@ flips = ['heads',
         'tails'
         ]
 
-print(flips) # prints all the list
+print(flips) # Prints all the list
 
 print(flips.count('heads')) # Use count() method to return the number of elements that match a certain string 'heads'
 
